@@ -1,0 +1,1754 @@
+{
+  "do you have nausea_vomiting?": [
+    {
+      "do you have fever?": [
+        {
+          "do you have anxiety?": [
+            [
+              [
+                "Rabies"
+              ],
+              [
+                386
+              ]
+            ],
+            {
+              "do you have nausea?": [
+                {
+                  "do you have blood_stool?": [
+                    [
+                      [
+                        "Diarrhea"
+                      ],
+                      [
+                        12
+                      ]
+                    ],
+                    {
+                      "do you have abdominal_cramp_pain?": [
+                        [
+                          [
+                            "Diarrhea",
+                            "Food Poisoning"
+                          ],
+                          [
+                            2,
+                            2
+                          ]
+                        ],
+                        {
+                          "do you have bloating?": [
+                            [
+                              [
+                                "Diarrhea"
+                              ],
+                              [
+                                1
+                              ]
+                            ],
+                            {
+                              "do you have watery_bloody_diarrhea?": [
+                                [
+                                  [
+                                    "Food Poisoning"
+                                  ],
+                                  [
+                                    1
+                                  ]
+                                ],
+                                {
+                                  "do you have agitation?": [
+                                    [
+                                      [
+                                        "Rabies"
+                                      ],
+                                      [
+                                        93
+                                      ]
+                                    ],
+                                    {
+                                      "do you have confusion?": [
+                                        [
+                                          [
+                                            "Rabies"
+                                          ],
+                                          [
+                                            29
+                                          ]
+                                        ],
+                                        [
+                                          [
+                                            "Food Poisoning",
+                                            "Rabies"
+                                          ],
+                                          [
+                                            1,
+                                            8
+                                          ]
+                                        ]
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "do you have difficulty_swallowing?": [
+                    [
+                      [
+                        "Rabies"
+                      ],
+                      [
+                        37
+                      ]
+                    ],
+                    {
+                      "do you have blood_stool?": [
+                        [
+                          [
+                            "Diarrhea"
+                          ],
+                          [
+                            10
+                          ]
+                        ],
+                        {
+                          "do you have excessive_salivation?": [
+                            [
+                              [
+                                "Rabies"
+                              ],
+                              [
+                                8
+                              ]
+                            ],
+                            {
+                              "do you have abdominal_cramp_pain?": [
+                                [
+                                  [
+                                    "Diarrhea",
+                                    "Food Poisoning"
+                                  ],
+                                  [
+                                    1,
+                                    2
+                                  ]
+                                ],
+                                {
+                                  "do you have hallucination?": [
+                                    [
+                                      [
+                                        "Rabies"
+                                      ],
+                                      [
+                                        1
+                                      ]
+                                    ],
+                                    {
+                                      "do you have watery_bloody_diarrhea?": [
+                                        [
+                                          [
+                                            "Food Poisoning"
+                                          ],
+                                          [
+                                            1
+                                          ]
+                                        ],
+                                        [
+                                          [
+                                            "Acute encephalitis syndrome"
+                                          ],
+                                          [
+                                            562
+                                          ]
+                                        ]
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "do you have agitation?": [
+            {
+              "do you have ache_muscle_joint?": [
+                [
+                  [
+                    "Acute encephalitis syndrome"
+                  ],
+                  [
+                    130
+                  ]
+                ],
+                {
+                  "do you have body_stiffness?": [
+                    [
+                      [
+                        "Acute encephalitis syndrome"
+                      ],
+                      [
+                        37
+                      ]
+                    ],
+                    {
+                      "do you have fatigue?": [
+                        [
+                          [
+                            "Acute encephalitis syndrome"
+                          ],
+                          [
+                            8
+                          ]
+                        ],
+                        {
+                          "do you have irritability?": [
+                            [
+                              [
+                                "Acute encephalitis syndrome"
+                              ],
+                              [
+                                1
+                              ]
+                            ],
+                            [
+                              [
+                                "Rabies"
+                              ],
+                              [
+                                176
+                              ]
+                            ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "do you have confusion?": [
+                {
+                  "do you have ache_muscle_joint?": [
+                    [
+                      [
+                        "Acute encephalitis syndrome"
+                      ],
+                      [
+                        37
+                      ]
+                    ],
+                    {
+                      "do you have body_stiffness?": [
+                        [
+                          [
+                            "Acute encephalitis syndrome"
+                          ],
+                          [
+                            8
+                          ]
+                        ],
+                        {
+                          "do you have fatigue?": [
+                            [
+                              [
+                                "Acute encephalitis syndrome"
+                              ],
+                              [
+                                1
+                              ]
+                            ],
+                            [
+                              [
+                                "Rabies"
+                              ],
+                              [
+                                46
+                              ]
+                            ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "do you have blood_stool?": [
+                    [
+                      [
+                        "Diarrhea"
+                      ],
+                      [
+                        15
+                      ]
+                    ],
+                    {
+                      "do you have anxiety?": [
+                        [
+                          [
+                            "Rabies"
+                          ],
+                          [
+                            9
+                          ]
+                        ],
+                        {
+                          "do you have ache_muscle_joint?": [
+                            [
+                              [
+                                "Acute encephalitis syndrome"
+                              ],
+                              [
+                                9
+                              ]
+                            ],
+                            {
+                              "do you have abdominal_bloating?": [
+                                [
+                                  [
+                                    "Appendicitis"
+                                  ],
+                                  [
+                                    7
+                                  ]
+                                ],
+                                {
+                                  "do you have abdominal_cramp_pain?": [
+                                    [
+                                      [
+                                        "Diarrhea",
+                                        "Food Poisoning"
+                                      ],
+                                      [
+                                        1,
+                                        3
+                                      ]
+                                    ],
+                                    {
+                                      "do you have constipation_diarrhea?": [
+                                        [
+                                          [
+                                            "Appendicitis"
+                                          ],
+                                          [
+                                            3
+                                          ]
+                                        ],
+                                        {
+                                          "do you have body_stiffness?": [
+                                            [
+                                              [
+                                                "Acute encephalitis syndrome"
+                                              ],
+                                              [
+                                                1
+                                              ]
+                                            ],
+                                            {
+                                              "do you have difficulty_swallowing?": [
+                                                [
+                                                  [
+                                                    "Rabies"
+                                                  ],
+                                                  [
+                                                    1
+                                                  ]
+                                                ],
+                                                {
+                                                  "do you have flatulence?": [
+                                                    [
+                                                      [
+                                                        "Appendicitis"
+                                                      ],
+                                                      [
+                                                        1
+                                                      ]
+                                                    ],
+                                                    {
+                                                      "do you have watery_bloody_diarrhea?": [
+                                                        [
+                                                          [
+                                                            "Food Poisoning"
+                                                          ],
+                                                          [
+                                                            1
+                                                          ]
+                                                        ],
+                                                        [
+                                                          [
+                                                            "Dengue Fever"
+                                                          ],
+                                                          [
+                                                            3174
+                                                          ]
+                                                        ]
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "do you have sol_foot?": [
+        [
+          [
+            "Scabies"
+          ],
+          [
+            1026
+          ]
+        ],
+        {
+          "do you have inflammation_follicular?": [
+            [
+              [
+                "Adult Inclusion Conjunctivitis"
+              ],
+              [
+                516
+              ]
+            ],
+            {
+              "do you have fever?": [
+                {
+                  "do you have active_tb?": [
+                    [
+                      [
+                        "Tuberculosis"
+                      ],
+                      [
+                        122
+                      ]
+                    ],
+                    {
+                      "do you have fatigue?": [
+                        {
+                          "do you have chill?": [
+                            [
+                              [
+                                "Tuberculosis"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            {
+                              "do you have coughing_blood_mucus?": [
+                                [
+                                  [
+                                    "Tuberculosis"
+                                  ],
+                                  [
+                                    1
+                                  ]
+                                ],
+                                [
+                                  [
+                                    "Acute encephalitis syndrome"
+                                  ],
+                                  [
+                                    176
+                                  ]
+                                ]
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "do you have muscle?": [
+                            {
+                              "do you have ache_muscle_joint?": [
+                                [
+                                  [
+                                    "Acute encephalitis syndrome"
+                                  ],
+                                  [
+                                    37
+                                  ]
+                                ],
+                                {
+                                  "do you have agitation?": [
+                                    [
+                                      [
+                                        "Acute encephalitis syndrome"
+                                      ],
+                                      [
+                                        8
+                                      ]
+                                    ],
+                                    {
+                                      "do you have body_stiffness?": [
+                                        [
+                                          [
+                                            "Acute encephalitis syndrome"
+                                          ],
+                                          [
+                                            1
+                                          ]
+                                        ],
+                                        [
+                                          [
+                                            "Avian influenza in humans"
+                                          ],
+                                          [
+                                            11
+                                          ]
+                                        ]
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "do you have anxiety?": [
+                                [
+                                  [
+                                    "Rabies"
+                                  ],
+                                  [
+                                    176
+                                  ]
+                                ],
+                                {
+                                  "do you have difficulty_swallowing?": [
+                                    [
+                                      [
+                                        "Rabies"
+                                      ],
+                                      [
+                                        46
+                                      ]
+                                    ],
+                                    {
+                                      "do you have blood_stool?": [
+                                        [
+                                          [
+                                            "Diarrhea"
+                                          ],
+                                          [
+                                            15
+                                          ]
+                                        ],
+                                        {
+                                          "do you have agitation?": [
+                                            {
+                                              "do you have ache_muscle_joint?": [
+                                                [
+                                                  [
+                                                    "Acute encephalitis syndrome"
+                                                  ],
+                                                  [
+                                                    8
+                                                  ]
+                                                ],
+                                                {
+                                                  "do you have body_stiffness?": [
+                                                    [
+                                                      [
+                                                        "Acute encephalitis syndrome"
+                                                      ],
+                                                      [
+                                                        1
+                                                      ]
+                                                    ],
+                                                    [
+                                                      [
+                                                        "Rabies"
+                                                      ],
+                                                      [
+                                                        9
+                                                      ]
+                                                    ]
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "do you have headache?": [
+                                                [
+                                                  [
+                                                    "Acute encephalitis syndrome",
+                                                    "Avian influenza in humans",
+                                                    "Rabies"
+                                                  ],
+                                                  [
+                                                    1,
+                                                    4,
+                                                    1
+                                                  ]
+                                                ],
+                                                {
+                                                  "do you have abdominal_cramp_pain?": [
+                                                    [
+                                                      [
+                                                        "Diarrhea",
+                                                        "Food Poisoning"
+                                                      ],
+                                                      [
+                                                        1,
+                                                        3
+                                                      ]
+                                                    ],
+                                                    {
+                                                      "do you have chill?": [
+                                                        [
+                                                          [
+                                                            "Tuberculosis"
+                                                          ],
+                                                          [
+                                                            1
+                                                          ]
+                                                        ],
+                                                        {
+                                                          "do you have cough?": [
+                                                            [
+                                                              [
+                                                                "Avian influenza in humans"
+                                                              ],
+                                                              [
+                                                                1
+                                                              ]
+                                                            ],
+                                                            {
+                                                              "do you have nausea?": [
+                                                                [
+                                                                  [
+                                                                    "Food Poisoning"
+                                                                  ],
+                                                                  [
+                                                                    1
+                                                                  ]
+                                                                ],
+                                                                [
+                                                                  [
+                                                                    "Hand, Foot and Mouth Disease"
+                                                                  ],
+                                                                  [
+                                                                    11
+                                                                  ]
+                                                                ]
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "do you have headache?": [
+                    {
+                      "do you have agitation?": [
+                        {
+                          "do you have ache_muscle_joint?": [
+                            [
+                              [
+                                "Acute encephalitis syndrome"
+                              ],
+                              [
+                                37
+                              ]
+                            ],
+                            {
+                              "do you have body_stiffness?": [
+                                [
+                                  [
+                                    "Acute encephalitis syndrome"
+                                  ],
+                                  [
+                                    8
+                                  ]
+                                ],
+                                {
+                                  "do you have fatigue?": [
+                                    [
+                                      [
+                                        "Acute encephalitis syndrome"
+                                      ],
+                                      [
+                                        1
+                                      ]
+                                    ],
+                                    [
+                                      [
+                                        "Rabies"
+                                      ],
+                                      [
+                                        46
+                                      ]
+                                    ]
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "do you have bleeding_gum_nose?": [
+                            [
+                              [
+                                "Dengue Fever"
+                              ],
+                              [
+                                176
+                              ]
+                            ],
+                            {
+                              "do you have fatigue?": [
+                                {
+                                  "do you have ache_muscle_joint?": [
+                                    [
+                                      [
+                                        "Acute encephalitis syndrome"
+                                      ],
+                                      [
+                                        8
+                                      ]
+                                    ],
+                                    {
+                                      "do you have body_stiffness?": [
+                                        [
+                                          [
+                                            "Acute encephalitis syndrome"
+                                          ],
+                                          [
+                                            1
+                                          ]
+                                        ],
+                                        [
+                                          [
+                                            "Dengue Fever"
+                                          ],
+                                          [
+                                            46
+                                          ]
+                                        ]
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "do you have nausea?": [
+                                    {
+                                      "do you have anxiety?": [
+                                        [
+                                          [
+                                            "Rabies"
+                                          ],
+                                          [
+                                            8
+                                          ]
+                                        ],
+                                        {
+                                          "do you have confusion?": [
+                                            [
+                                              [
+                                                "Rabies"
+                                              ],
+                                              [
+                                                1
+                                              ]
+                                            ],
+                                            [
+                                              [
+                                                "Dengue Fever"
+                                              ],
+                                              [
+                                                9
+                                              ]
+                                            ]
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "do you have muscle?": [
+                                        [
+                                          [
+                                            "Acute encephalitis syndrome",
+                                            "Avian influenza in humans",
+                                            "Dengue Fever"
+                                          ],
+                                          [
+                                            1,
+                                            4,
+                                            1
+                                          ]
+                                        ],
+                                        {
+                                          "do you have anxiety?": [
+                                            [
+                                              [
+                                                "Rabies"
+                                              ],
+                                              [
+                                                1
+                                              ]
+                                            ],
+                                            {
+                                              "do you have cough?": [
+                                                [
+                                                  [
+                                                    "Avian influenza in humans"
+                                                  ],
+                                                  [
+                                                    1
+                                                  ]
+                                                ],
+                                                [
+                                                  [
+                                                    "Heterophoria"
+                                                  ],
+                                                  [
+                                                    42
+                                                  ]
+                                                ]
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "do you have red?": [
+                        [
+                          [
+                            "Eyelid Varix"
+                          ],
+                          [
+                            167
+                          ]
+                        ],
+                        {
+                          "do you have fatigue?": [
+                            {
+                              "do you have active_tb?": [
+                                [
+                                  [
+                                    "Tuberculosis"
+                                  ],
+                                  [
+                                    36
+                                  ]
+                                ],
+                                {
+                                  "do you have irritability?": [
+                                    {
+                                      "do you have ache_muscle_joint?": [
+                                        [
+                                          [
+                                            "Acute encephalitis syndrome"
+                                          ],
+                                          [
+                                            8
+                                          ]
+                                        ],
+                                        {
+                                          "do you have agitation?": [
+                                            [
+                                              [
+                                                "Acute encephalitis syndrome"
+                                              ],
+                                              [
+                                                1
+                                              ]
+                                            ],
+                                            [
+                                              [
+                                                "Dengue Fever"
+                                              ],
+                                              [
+                                                46
+                                              ]
+                                            ]
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "do you have nausea?": [
+                                        {
+                                          "do you have bleeding_gum_nose?": [
+                                            [
+                                              [
+                                                "Dengue Fever"
+                                              ],
+                                              [
+                                                8
+                                              ]
+                                            ],
+                                            {
+                                              "do you have bone_joint_pain?": [
+                                                [
+                                                  [
+                                                    "Dengue Fever"
+                                                  ],
+                                                  [
+                                                    1
+                                                  ]
+                                                ],
+                                                [
+                                                  [
+                                                    "Myocardial Infarction (Heart Attack)"
+                                                  ],
+                                                  [
+                                                    26
+                                                  ]
+                                                ]
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "do you have cold_sweat?": [
+                                            [
+                                              [
+                                                "Myocardial Infarction (Heart Attack)"
+                                              ],
+                                              [
+                                                11
+                                              ]
+                                            ],
+                                            {
+                                              "do you have eye_irritation_pain?": [
+                                                [
+                                                  [
+                                                    "Myocardial Infarction (Heart Attack)"
+                                                  ],
+                                                  [
+                                                    4
+                                                  ]
+                                                ],
+                                                {
+                                                  "do you have muscle?": [
+                                                    [
+                                                      [
+                                                        "Acute encephalitis syndrome",
+                                                        "Dengue Fever"
+                                                      ],
+                                                      [
+                                                        1,
+                                                        1
+                                                      ]
+                                                    ],
+                                                    {
+                                                      "do you have chill?": [
+                                                        [
+                                                          [
+                                                            "Tuberculosis"
+                                                          ],
+                                                          [
+                                                            1
+                                                          ]
+                                                        ],
+                                                        {
+                                                          "do you have indigestion?": [
+                                                            [
+                                                              [
+                                                                "Myocardial Infarction (Heart Attack)"
+                                                              ],
+                                                              [
+                                                                1
+                                                              ]
+                                                            ],
+                                                            [
+                                                              [
+                                                                "Thalassaemia"
+                                                              ],
+                                                              [
+                                                                42
+                                                              ]
+                                                            ]
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "do you have abdominal_swelling?": [
+                                {
+                                  "do you have corneal_clouding_opacity?": [
+                                    [
+                                      [
+                                        "Adult Inclusion Conjunctivitis"
+                                      ],
+                                      [
+                                        29
+                                      ]
+                                    ],
+                                    {
+                                      "do you have dark_urine?": [
+                                        [
+                                          [
+                                            "Thalassaemia"
+                                          ],
+                                          [
+                                            11
+                                          ]
+                                        ],
+                                        {
+                                          "do you have eye_discharge_containing_mucus_pu?": [
+                                            [
+                                              [
+                                                "Adult Inclusion Conjunctivitis"
+                                              ],
+                                              [
+                                                7
+                                              ]
+                                            ],
+                                            {
+                                              "do you have facial_bone_deformity?": [
+                                                [
+                                                  [
+                                                    "Thalassaemia"
+                                                  ],
+                                                  [
+                                                    4
+                                                  ]
+                                                ],
+                                                {
+                                                  "do you have eye_irritation_pain?": [
+                                                    [
+                                                      [
+                                                        "Adult Inclusion Conjunctivitis"
+                                                      ],
+                                                      [
+                                                        1
+                                                      ]
+                                                    ],
+                                                    {
+                                                      "do you have pale_yellowish_skin?": [
+                                                        [
+                                                          [
+                                                            "Thalassaemia"
+                                                          ],
+                                                          [
+                                                            1
+                                                          ]
+                                                        ],
+                                                        [
+                                                          [
+                                                            "Gangrene"
+                                                          ],
+                                                          [
+                                                            42
+                                                          ]
+                                                        ]
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "do you have along_inside_wrist?": [
+                                    [
+                                      [
+                                        "Scabies"
+                                      ],
+                                      [
+                                        56
+                                      ]
+                                    ],
+                                    {
+                                      "do you have eye_irritation_pain?": [
+                                        {
+                                          "do you have eye_discharge_containing_mucus_pu?": [
+                                            {
+                                              "do you have corneal_clouding_opacity?": [
+                                                [
+                                                  [
+                                                    "Adult Inclusion Conjunctivitis"
+                                                  ],
+                                                  [
+                                                    6
+                                                  ]
+                                                ],
+                                                [
+                                                  [
+                                                    "Adult Inclusion Conjunctivitis",
+                                                    "Epiblepharon"
+                                                  ],
+                                                  [
+                                                    1,
+                                                    7
+                                                  ]
+                                                ]
+                                              ]
+                                            },
+                                            {
+                                              "do you have cold_sweat?": [
+                                                [
+                                                  [
+                                                    "Myocardial Infarction (Heart Attack)"
+                                                  ],
+                                                  [
+                                                    11
+                                                  ]
+                                                ],
+                                                {
+                                                  "do you have indigestion?": [
+                                                    [
+                                                      [
+                                                        "Myocardial Infarction (Heart Attack)"
+                                                      ],
+                                                      [
+                                                        4
+                                                      ]
+                                                    ],
+                                                    {
+                                                      "do you have watery_eye_excessive_tearing?": [
+                                                        [
+                                                          [
+                                                            "Epiblepharon"
+                                                          ],
+                                                          [
+                                                            3
+                                                          ]
+                                                        ],
+                                                        {
+                                                          "do you have corneal_clouding_opacity?": [
+                                                            [
+                                                              [
+                                                                "Adult Inclusion Conjunctivitis"
+                                                              ],
+                                                              [
+                                                                1
+                                                              ]
+                                                            ],
+                                                            {
+                                                              "do you have lightheadedness?": [
+                                                                [
+                                                                  [
+                                                                    "Myocardial Infarction (Heart Attack)"
+                                                                  ],
+                                                                  [
+                                                                    1
+                                                                  ]
+                                                                ],
+                                                                {
+                                                                  "do you have blurred_distorted_vision?": [
+                                                                    {
+                                                                      "do you have decreased_vision?": [
+                                                                        [
+                                                                          [
+                                                                            "Epidemic Keratoconjunctivitis",
+                                                                            "Superior Limbic Keratoconjunctivitis"
+                                                                          ],
+                                                                          [
+                                                                            4,
+                                                                            4
+                                                                          ]
+                                                                        ],
+                                                                        [
+                                                                          [
+                                                                            "Epidemic Keratoconjunctivitis",
+                                                                            "Superior Limbic Keratoconjunctivitis"
+                                                                          ],
+                                                                          [
+                                                                            3,
+                                                                            3
+                                                                          ]
+                                                                        ]
+                                                                      ]
+                                                                    },
+                                                                    [
+                                                                      [
+                                                                        "Epiblepharon",
+                                                                        "Epidemic Keratoconjunctivitis",
+                                                                        "Superior Limbic Keratoconjunctivitis"
+                                                                      ],
+                                                                      [
+                                                                        1,
+                                                                        4,
+                                                                        4
+                                                                      ]
+                                                                    ]
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "do you have nausea?": [
+                                            {
+                                              "do you have bleeding_gum_nose?": [
+                                                [
+                                                  [
+                                                    "Dengue Fever"
+                                                  ],
+                                                  [
+                                                    9
+                                                  ]
+                                                ],
+                                                {
+                                                  "do you have blood_stool?": [
+                                                    [
+                                                      [
+                                                        "Diarrhea"
+                                                      ],
+                                                      [
+                                                        5
+                                                      ]
+                                                    ],
+                                                    {
+                                                      "do you have agitation?": [
+                                                        [
+                                                          [
+                                                            "Rabies"
+                                                          ],
+                                                          [
+                                                            9
+                                                          ]
+                                                        ],
+                                                        [
+                                                          [
+                                                            "Dengue Fever",
+                                                            "Food Poisoning",
+                                                            "Myocardial Infarction (Heart Attack)",
+                                                            "Rabies"
+                                                          ],
+                                                          [
+                                                            1,
+                                                            1,
+                                                            5,
+                                                            1
+                                                          ]
+                                                        ]
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "do you have deep?": [
+                                                [
+                                                  [
+                                                    "Ichthyosis"
+                                                  ],
+                                                  [
+                                                    42
+                                                  ]
+                                                ],
+                                                {
+                                                  "do you have light_sensitivity_photophobia?": [
+                                                    {
+                                                      "do you have crusted_eyelash?": [
+                                                        [
+                                                          [
+                                                            "Eyelid Varix"
+                                                          ],
+                                                          [
+                                                            7
+                                                          ]
+                                                        ],
+                                                        {
+                                                          "do you have eye_discharge_containing_mucus_pu?": [
+                                                            [
+                                                              [
+                                                                "Adult Inclusion Conjunctivitis",
+                                                                "Epiblepharon"
+                                                              ],
+                                                              [
+                                                                1,
+                                                                3
+                                                              ]
+                                                            ],
+                                                            {
+                                                              "do you have eyelid_appear_greasy?": [
+                                                                [
+                                                                  [
+                                                                    "Eyelid Varix"
+                                                                  ],
+                                                                  [
+                                                                    1
+                                                                  ]
+                                                                ],
+                                                                [
+                                                                  [
+                                                                    "Epiblepharon",
+                                                                    "Epidemic Keratoconjunctivitis",
+                                                                    "Superior Limbic Keratoconjunctivitis"
+                                                                  ],
+                                                                  [
+                                                                    1,
+                                                                    4,
+                                                                    4
+                                                                  ]
+                                                                ]
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "do you have irritability?": [
+                                                        {
+                                                          "do you have muscle?": [
+                                                            [
+                                                              [
+                                                                "Acute encephalitis syndrome",
+                                                                "Dengue Fever"
+                                                              ],
+                                                              [
+                                                                1,
+                                                                1
+                                                              ]
+                                                            ],
+                                                            {
+                                                              "do you have feeling_unwell?": [
+                                                                [
+                                                                  [
+                                                                    "Hand, Foot and Mouth Disease"
+                                                                  ],
+                                                                  [
+                                                                    3
+                                                                  ]
+                                                                ],
+                                                                {
+                                                                  "do you have loss_appetite?": [
+                                                                    [
+                                                                      [
+                                                                        "Hand, Foot and Mouth Disease"
+                                                                      ],
+                                                                      [
+                                                                        1
+                                                                      ]
+                                                                    ],
+                                                                    [
+                                                                      [
+                                                                        "Haemophilia"
+                                                                      ],
+                                                                      [
+                                                                        16
+                                                                      ]
+                                                                    ]
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "do you have loss_appetite?": [
+                                                            {
+                                                              "do you have active_tb?": [
+                                                                [
+                                                                  [
+                                                                    "Tuberculosis"
+                                                                  ],
+                                                                  [
+                                                                    8
+                                                                  ]
+                                                                ],
+                                                                [
+                                                                  [
+                                                                    "Appendicitis",
+                                                                    "Diabetic Retinopathy",
+                                                                    "Hand, Foot and Mouth Disease"
+                                                                  ],
+                                                                  [
+                                                                    4,
+                                                                    3,
+                                                                    1
+                                                                  ]
+                                                                ]
+                                                              ]
+                                                            },
+                                                            {
+                                                              "do you have shortness_breath?": [
+                                                                {
+                                                                  "do you have cold_sweat?": [
+                                                                    [
+                                                                      [
+                                                                        "Myocardial Infarction (Heart Attack)"
+                                                                      ],
+                                                                      [
+                                                                        1
+                                                                      ]
+                                                                    ],
+                                                                    {
+                                                                      "do you have cough?": [
+                                                                        [
+                                                                          [
+                                                                            "Avian influenza in humans"
+                                                                          ],
+                                                                          [
+                                                                            1
+                                                                          ]
+                                                                        ],
+                                                                        [
+                                                                          [
+                                                                            "Gangrene"
+                                                                          ],
+                                                                          [
+                                                                            16
+                                                                          ]
+                                                                        ]
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "do you have difficulty_concentrating?": [
+                                                                    [
+                                                                      [
+                                                                        "Heterophoria"
+                                                                      ],
+                                                                      [
+                                                                        16
+                                                                      ]
+                                                                    ],
+                                                                    {
+                                                                      "do you have dry?": [
+                                                                        [
+                                                                          [
+                                                                            "Ichthyosis"
+                                                                          ],
+                                                                          [
+                                                                            16
+                                                                          ]
+                                                                        ],
+                                                                        {
+                                                                          "do you have armpit?": [
+                                                                            [
+                                                                              [
+                                                                                "Scabies"
+                                                                              ],
+                                                                              [
+                                                                                10
+                                                                              ]
+                                                                            ],
+                                                                            {
+                                                                              "do you have blurred_distorted_vision?": [
+                                                                                [
+                                                                                  [
+                                                                                    "Diabetic Retinopathy",
+                                                                                    "Epidemic Keratoconjunctivitis",
+                                                                                    "Keratoconus",
+                                                                                    "Pellucid Marginal Degeneration",
+                                                                                    "Superior Limbic Keratoconjunctivitis"
+                                                                                  ],
+                                                                                  [
+                                                                                    1,
+                                                                                    1,
+                                                                                    2,
+                                                                                    2,
+                                                                                    1
+                                                                                  ]
+                                                                                ],
+                                                                                {
+                                                                                  "do you have blood_stool?": [
+                                                                                    [
+                                                                                      [
+                                                                                        "Diarrhea",
+                                                                                        "Haemophilia"
+                                                                                      ],
+                                                                                      [
+                                                                                        1,
+                                                                                        5
+                                                                                      ]
+                                                                                    ],
+                                                                                    {
+                                                                                      "do you have confusion?": [
+                                                                                        [
+                                                                                          [
+                                                                                            "Gangrene",
+                                                                                            "Rabies"
+                                                                                          ],
+                                                                                          [
+                                                                                            5,
+                                                                                            1
+                                                                                          ]
+                                                                                        ],
+                                                                                        {
+                                                                                          "do you have dark_urine?": [
+                                                                                            [
+                                                                                              [
+                                                                                                "Thalassaemia"
+                                                                                              ],
+                                                                                              [
+                                                                                                5
+                                                                                              ]
+                                                                                            ],
+                                                                                            {
+                                                                                              "do you have double_vision_diplopia?": [
+                                                                                                [
+                                                                                                  [
+                                                                                                    "Heterophoria"
+                                                                                                  ],
+                                                                                                  [
+                                                                                                    5
+                                                                                                  ]
+                                                                                                ],
+                                                                                                {
+                                                                                                  "do you have flaky_scalp?": [
+                                                                                                    [
+                                                                                                      [
+                                                                                                        "Ichthyosis"
+                                                                                                      ],
+                                                                                                      [
+                                                                                                        5
+                                                                                                      ]
+                                                                                                    ],
+                                                                                                    {
+                                                                                                      "do you have avoidance_social_setting?": [
+                                                                                                        [
+                                                                                                          [
+                                                                                                            "Deafness"
+                                                                                                          ],
+                                                                                                          [
+                                                                                                            7
+                                                                                                          ]
+                                                                                                        ],
+                                                                                                        {
+                                                                                                          "do you have arguing_doctor_staff?": [
+                                                                                                            [
+                                                                                                              [
+                                                                                                                "Factitious Keratoconjunctivitis"
+                                                                                                              ],
+                                                                                                              [
+                                                                                                                7
+                                                                                                              ]
+                                                                                                            ],
+                                                                                                            {
+                                                                                                              "do you have sudden_worsening_clouding_vision?": [
+                                                                                                                [
+                                                                                                                  [
+                                                                                                                    "Keratoconus",
+                                                                                                                    "Pellucid Marginal Degeneration"
+                                                                                                                  ],
+                                                                                                                  [
+                                                                                                                    1,
+                                                                                                                    1
+                                                                                                                  ]
+                                                                                                                ],
+                                                                                                                {
+                                                                                                                  "do you have muffling_speech_sound?": [
+                                                                                                                    [
+                                                                                                                      [
+                                                                                                                        "Deafness"
+                                                                                                                      ],
+                                                                                                                      [
+                                                                                                                        3
+                                                                                                                      ]
+                                                                                                                    ],
+                                                                                                                    {
+                                                                                                                      "do you have frequent_stay_hospital?": [
+                                                                                                                        [
+                                                                                                                          [
+                                                                                                                            "Factitious Keratoconjunctivitis"
+                                                                                                                          ],
+                                                                                                                          [
+                                                                                                                            3
+                                                                                                                          ]
+                                                                                                                        ],
+                                                                                                                        {
+                                                                                                                          "do you have abdominal_bloating?": [
+                                                                                                                            [
+                                                                                                                              [
+                                                                                                                                "Appendicitis"
+                                                                                                                              ],
+                                                                                                                              [
+                                                                                                                                1
+                                                                                                                              ]
+                                                                                                                            ],
+                                                                                                                            {
+                                                                                                                              "do you have active_tb?": [
+                                                                                                                                [
+                                                                                                                                  [
+                                                                                                                                    "Tuberculosis"
+                                                                                                                                  ],
+                                                                                                                                  [
+                                                                                                                                    1
+                                                                                                                                  ]
+                                                                                                                                ],
+                                                                                                                                {
+                                                                                                                                  "do you have around_breast?": [
+                                                                                                                                    [
+                                                                                                                                      [
+                                                                                                                                        "Scabies"
+                                                                                                                                      ],
+                                                                                                                                      [
+                                                                                                                                        1
+                                                                                                                                      ]
+                                                                                                                                    ],
+                                                                                                                                    [
+                                                                                                                                      [
+                                                                                                                                        "Deafness",
+                                                                                                                                        "Epiblepharon",
+                                                                                                                                        "Eyelid Varix",
+                                                                                                                                        "Factitious Keratoconjunctivitis",
+                                                                                                                                        "Gangrene",
+                                                                                                                                        "Haemophilia",
+                                                                                                                                        "Heterophoria",
+                                                                                                                                        "Ichthyosis",
+                                                                                                                                        "Thalassaemia"
+                                                                                                                                      ],
+                                                                                                                                      [
+                                                                                                                                        1,
+                                                                                                                                        1,
+                                                                                                                                        1,
+                                                                                                                                        1,
+                                                                                                                                        1,
+                                                                                                                                        1,
+                                                                                                                                        1,
+                                                                                                                                        1,
+                                                                                                                                        1
+                                                                                                                                      ]
+                                                                                                                                    ]
+                                                                                                                                  ]
+                                                                                                                                }
+                                                                                                                              ]
+                                                                                                                            }
+                                                                                                                          ]
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

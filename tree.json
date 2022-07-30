@@ -1,0 +1,1388 @@
+{
+  "do you have fatigue?": [
+    {
+      "do you have loss_of_appetite?": [
+        {
+          "do you have malaise?": [
+            {
+              "do you have yellowing_of_eyes?": [
+                {
+                  "do you have blood_in_sputum?": [
+                    [
+                      [
+                        "Tuberculosis"
+                      ],
+                      [
+                        114
+                      ]
+                    ],
+                    [
+                      [
+                        "Hepatitis B"
+                      ],
+                      [
+                        108
+                      ]
+                    ]
+                  ]
+                },
+                {
+                  "do you have back_pain?": [
+                    [
+                      [
+                        "Dengue"
+                      ],
+                      [
+                        108
+                      ]
+                    ],
+                    [
+                      [
+                        "Chicken pox"
+                      ],
+                      [
+                        108
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "do you have coma?": [
+                [
+                  [
+                    "Hepatitis E"
+                  ],
+                  [
+                    114
+                  ]
+                ],
+                {
+                  "do you have joint_pain?": [
+                    {
+                      "do you have back_pain?": [
+                        [
+                          [
+                            "Dengue"
+                          ],
+                          [
+                            6
+                          ]
+                        ],
+                        [
+                          [
+                            "Hepatitis D"
+                          ],
+                          [
+                            102
+                          ]
+                        ]
+                      ]
+                    },
+                    {
+                      "do you have abdominal_pain?": [
+                        [
+                          [
+                            "Hepatitis D"
+                          ],
+                          [
+                            6
+                          ]
+                        ],
+                        [
+                          [
+                            "Hepatitis C"
+                          ],
+                          [
+                            108
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "do you have high_fever?": [
+            {
+              "do you have chest_pain?": [
+                {
+                  "do you have congestion?": [
+                    [
+                      [
+                        "Common Cold"
+                      ],
+                      [
+                        108
+                      ]
+                    ],
+                    [
+                      [
+                        "Pneumonia"
+                      ],
+                      [
+                        108
+                      ]
+                    ]
+                  ]
+                },
+                {
+                  "do you have chills?": [
+                    [
+                      [
+                        "Typhoid"
+                      ],
+                      [
+                        120
+                      ]
+                    ],
+                    {
+                      "do you have itching?": [
+                        {
+                          "do you have headache?": [
+                            [
+                              [
+                                "Chicken pox"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            [
+                              [
+                                "Jaundice"
+                              ],
+                              [
+                                102
+                              ]
+                            ]
+                          ]
+                        },
+                        {
+                          "do you have abdominal_pain?": [
+                            [
+                              [
+                                "Jaundice"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            [
+                              [
+                                "Bronchial Asthma"
+                              ],
+                              [
+                                102
+                              ]
+                            ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "do you have irritability?": [
+                {
+                  "do you have abnormal_menstruation?": [
+                    {
+                      "do you have brittle_nails?": [
+                        [
+                          [
+                            "Hypothyroidism"
+                          ],
+                          [
+                            108
+                          ]
+                        ],
+                        [
+                          [
+                            "Hyperthyroidism"
+                          ],
+                          [
+                            114
+                          ]
+                        ]
+                      ]
+                    },
+                    [
+                      [
+                        "Hypoglycemia"
+                      ],
+                      [
+                        114
+                      ]
+                    ]
+                  ]
+                },
+                {
+                  "do you have increased_appetite?": [
+                    [
+                      [
+                        "Diabetes "
+                      ],
+                      [
+                        114
+                      ]
+                    ],
+                    {
+                      "do you have bruising?": [
+                        [
+                          [
+                            "Varicose veins"
+                          ],
+                          [
+                            108
+                          ]
+                        ],
+                        {
+                          "do you have yellowish_skin?": [
+                            {
+                              "do you have itching?": [
+                                {
+                                  "do you have lethargy?": [
+                                    [
+                                      [
+                                        "Hepatitis B"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ],
+                                    [
+                                      [
+                                        "Jaundice"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ]
+                                  ]
+                                },
+                                {
+                                  "do you have abdominal_pain?": [
+                                    [
+                                      [
+                                        "Hepatitis D"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ],
+                                    [
+                                      [
+                                        "Hepatitis C"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ]
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "do you have breathlessness?": [
+                                {
+                                  "do you have chest_pain?": [
+                                    [
+                                      [
+                                        "Pneumonia"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ],
+                                    [
+                                      [
+                                        "Bronchial Asthma"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ]
+                                  ]
+                                },
+                                {
+                                  "do you have chest_pain?": [
+                                    [
+                                      [
+                                        "Common Cold"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ],
+                                    [
+                                      [
+                                        "Varicose veins"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ]
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "do you have vomiting?": [
+        {
+          "do you have nausea?": [
+            {
+              "do you have muscle_pain?": [
+                {
+                  "do you have mild_fever?": [
+                    [
+                      [
+                        "hepatitis A"
+                      ],
+                      [
+                        108
+                      ]
+                    ],
+                    {
+                      "do you have back_pain?": [
+                        [
+                          [
+                            "Dengue"
+                          ],
+                          [
+                            6
+                          ]
+                        ],
+                        [
+                          [
+                            "Malaria"
+                          ],
+                          [
+                            108
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "do you have abdominal_pain?": [
+                    {
+                      "do you have dark_urine?": [
+                        {
+                          "do you have acute_liver_failure?": [
+                            [
+                              [
+                                "Hepatitis E"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            [
+                              [
+                                "Hepatitis D"
+                              ],
+                              [
+                                6
+                              ]
+                            ]
+                          ]
+                        },
+                        [
+                          [
+                            "Chronic cholestasis"
+                          ],
+                          [
+                            102
+                          ]
+                        ]
+                      ]
+                    },
+                    {
+                      "do you have loss_of_balance?": [
+                        [
+                          [
+                            "(vertigo) Paroymsal  Positional Vertigo"
+                          ],
+                          [
+                            102
+                          ]
+                        ],
+                        {
+                          "do you have anxiety?": [
+                            [
+                              [
+                                "Hypoglycemia"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            {
+                              "do you have headache?": [
+                                [
+                                  [
+                                    "(vertigo) Paroymsal  Positional Vertigo"
+                                  ],
+                                  [
+                                    6
+                                  ]
+                                ],
+                                [
+                                  [
+                                    "Chronic cholestasis"
+                                  ],
+                                  [
+                                    6
+                                  ]
+                                ]
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "do you have abdominal_pain?": [
+                {
+                  "do you have yellowish_skin?": [
+                    {
+                      "do you have dark_urine?": [
+                        {
+                          "do you have diarrhoea?": [
+                            [
+                              [
+                                "hepatitis A"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            [
+                              [
+                                "Jaundice"
+                              ],
+                              [
+                                6
+                              ]
+                            ]
+                          ]
+                        },
+                        {
+                          "do you have itching?": [
+                            [
+                              [
+                                "Chronic cholestasis"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            [
+                              [
+                                "Alcoholic hepatitis"
+                              ],
+                              [
+                                102
+                              ]
+                            ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "do you have distention_of_abdomen?": [
+                        [
+                          [
+                            "Alcoholic hepatitis"
+                          ],
+                          [
+                            6
+                          ]
+                        ],
+                        [
+                          [
+                            "Peptic ulcer diseae"
+                          ],
+                          [
+                            108
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "do you have chest_pain?": [
+                    {
+                      "do you have cough?": [
+                        {
+                          "do you have blood_in_sputum?": [
+                            [
+                              [
+                                "Tuberculosis"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            [
+                              [
+                                "GERD"
+                              ],
+                              [
+                                96
+                              ]
+                            ]
+                          ]
+                        },
+                        {
+                          "do you have acidity?": [
+                            [
+                              [
+                                "GERD"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            [
+                              [
+                                "Heart attack"
+                              ],
+                              [
+                                102
+                              ]
+                            ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "do you have diarrhoea?": [
+                        {
+                          "do you have chills?": [
+                            [
+                              [
+                                "Malaria"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            [
+                              [
+                                "Gastroenteritis"
+                              ],
+                              [
+                                102
+                              ]
+                            ]
+                          ]
+                        },
+                        {
+                          "do you have altered_sensorium?": [
+                            [
+                              [
+                                "Paralysis (brain hemorrhage)"
+                              ],
+                              [
+                                102
+                              ]
+                            ],
+                            {
+                              "do you have headache?": [
+                                {
+                                  "do you have loss_of_balance?": [
+                                    [
+                                      [
+                                        "(vertigo) Paroymsal  Positional Vertigo"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ],
+                                    [
+                                      [
+                                        "Paralysis (brain hemorrhage)"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ]
+                                  ]
+                                },
+                                {
+                                  "do you have acidity?": [
+                                    [
+                                      [
+                                        "GERD"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ],
+                                    {
+                                      "do you have breathlessness?": [
+                                        [
+                                          [
+                                            "Heart attack"
+                                          ],
+                                          [
+                                            6
+                                          ]
+                                        ],
+                                        {
+                                          "do you have dehydration?": [
+                                            [
+                                              [
+                                                "Gastroenteritis"
+                                              ],
+                                              [
+                                                6
+                                              ]
+                                            ],
+                                            {
+                                              "do you have distention_of_abdomen?": [
+                                                [
+                                                  [
+                                                    "Alcoholic hepatitis"
+                                                  ],
+                                                  [
+                                                    6
+                                                  ]
+                                                ],
+                                                [
+                                                  [
+                                                    "Peptic ulcer diseae"
+                                                  ],
+                                                  [
+                                                    6
+                                                  ]
+                                                ]
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "do you have skin_rash?": [
+            {
+              "do you have itching?": [
+                {
+                  "do you have burning_micturition?": [
+                    [
+                      [
+                        "Drug Reaction"
+                      ],
+                      [
+                        90
+                      ]
+                    ],
+                    {
+                      "do you have spotting_urination?": [
+                        [
+                          [
+                            "Drug Reaction"
+                          ],
+                          [
+                            12
+                          ]
+                        ],
+                        {
+                          "do you have headache?": [
+                            [
+                              [
+                                "Chicken pox"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            [
+                              [
+                                "Fungal infection"
+                              ],
+                              [
+                                96
+                              ]
+                            ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "do you have blister?": [
+                    [
+                      [
+                        "Impetigo"
+                      ],
+                      [
+                        108
+                      ]
+                    ],
+                    {
+                      "do you have inflammatory_nails?": [
+                        [
+                          [
+                            "Psoriasis"
+                          ],
+                          [
+                            108
+                          ]
+                        ],
+                        {
+                          "do you have blackheads?": [
+                            [
+                              [
+                                "Acne"
+                              ],
+                              [
+                                102
+                              ]
+                            ],
+                            {
+                              "do you have dischromic_patches?": [
+                                [
+                                  [
+                                    "Fungal infection"
+                                  ],
+                                  [
+                                    12
+                                  ]
+                                ],
+                                {
+                                  "do you have pus_filled_pimples?": [
+                                    [
+                                      [
+                                        "Acne"
+                                      ],
+                                      [
+                                        12
+                                      ]
+                                    ],
+                                    {
+                                      "do you have burning_micturition?": [
+                                        [
+                                          [
+                                            "Drug Reaction"
+                                          ],
+                                          [
+                                            6
+                                          ]
+                                        ],
+                                        {
+                                          "do you have high_fever?": [
+                                            [
+                                              [
+                                                "Impetigo"
+                                              ],
+                                              [
+                                                6
+                                              ]
+                                            ],
+                                            [
+                                              [
+                                                "Psoriasis"
+                                              ],
+                                              [
+                                                6
+                                              ]
+                                            ]
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "do you have headache?": [
+                {
+                  "do you have loss_of_balance?": [
+                    {
+                      "do you have nausea?": [
+                        [
+                          [
+                            "(vertigo) Paroymsal  Positional Vertigo"
+                          ],
+                          [
+                            6
+                          ]
+                        ],
+                        [
+                          [
+                            "Hypertension "
+                          ],
+                          [
+                            102
+                          ]
+                        ]
+                      ]
+                    },
+                    {
+                      "do you have acidity?": [
+                        [
+                          [
+                            "Migraine"
+                          ],
+                          [
+                            108
+                          ]
+                        ],
+                        {
+                          "do you have altered_sensorium?": [
+                            [
+                              [
+                                "Paralysis (brain hemorrhage)"
+                              ],
+                              [
+                                12
+                              ]
+                            ],
+                            {
+                              "do you have chest_pain?": [
+                                {
+                                  "do you have chills?": [
+                                    [
+                                      [
+                                        "Common Cold"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ],
+                                    [
+                                      [
+                                        "Hypertension "
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ]
+                                  ]
+                                },
+                                {
+                                  "do you have blurred_and_distorted_vision?": [
+                                    [
+                                      [
+                                        "Migraine"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ],
+                                    [
+                                      [
+                                        "Malaria"
+                                      ],
+                                      [
+                                        6
+                                      ]
+                                    ]
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "do you have neck_pain?": [
+                    {
+                      "do you have dizziness?": [
+                        [
+                          [
+                            "Cervical spondylosis"
+                          ],
+                          [
+                            108
+                          ]
+                        ],
+                        {
+                          "do you have back_pain?": [
+                            [
+                              [
+                                "Cervical spondylosis"
+                              ],
+                              [
+                                6
+                              ]
+                            ],
+                            [
+                              [
+                                "Osteoarthristis"
+                              ],
+                              [
+                                114
+                              ]
+                            ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "do you have high_fever?": [
+                        {
+                          "do you have breathlessness?": [
+                            {
+                              "do you have chest_pain?": [
+                                [
+                                  [
+                                    "Pneumonia"
+                                  ],
+                                  [
+                                    6
+                                  ]
+                                ],
+                                [
+                                  [
+                                    "Bronchial Asthma"
+                                  ],
+                                  [
+                                    12
+                                  ]
+                                ]
+                              ]
+                            },
+                            {
+                              "do you have blister?": [
+                                [
+                                  [
+                                    "Impetigo"
+                                  ],
+                                  [
+                                    6
+                                  ]
+                                ],
+                                [
+                                  [
+                                    "AIDS"
+                                  ],
+                                  [
+                                    114
+                                  ]
+                                ]
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "do you have muscle_weakness?": [
+                            {
+                              "do you have abnormal_menstruation?": [
+                                [
+                                  [
+                                    "Hyperthyroidism"
+                                  ],
+                                  [
+                                    6
+                                  ]
+                                ],
+                                [
+                                  [
+                                    "Arthritis"
+                                  ],
+                                  [
+                                    114
+                                  ]
+                                ]
+                              ]
+                            },
+                            {
+                              "do you have bladder_discomfort?": [
+                                [
+                                  [
+                                    "Urinary tract infection"
+                                  ],
+                                  [
+                                    114
+                                  ]
+                                ],
+                                {
+                                  "do you have bloody_stool?": [
+                                    [
+                                      [
+                                        "Dimorphic hemmorhoids(piles)"
+                                      ],
+                                      [
+                                        114
+                                      ]
+                                    ],
+                                    {
+                                      "do you have chills?": [
+                                        [
+                                          [
+                                            "Allergy"
+                                          ],
+                                          [
+                                            108
+                                          ]
+                                        ],
+                                        {
+                                          "do you have itching?": [
+                                            {
+                                              "do you have abdominal_pain?": [
+                                                {
+                                                  "do you have dark_urine?": [
+                                                    [
+                                                      [
+                                                        "Hepatitis B"
+                                                      ],
+                                                      [
+                                                        6
+                                                      ]
+                                                    ],
+                                                    [
+                                                      [
+                                                        "Chronic cholestasis"
+                                                      ],
+                                                      [
+                                                        6
+                                                      ]
+                                                    ]
+                                                  ]
+                                                },
+                                                {
+                                                  "do you have burning_micturition?": [
+                                                    [
+                                                      [
+                                                        "Drug Reaction"
+                                                      ],
+                                                      [
+                                                        12
+                                                      ]
+                                                    ],
+                                                    [
+                                                      [
+                                                        "Fungal infection"
+                                                      ],
+                                                      [
+                                                        12
+                                                      ]
+                                                    ]
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "do you have chest_pain?": [
+                                                {
+                                                  "do you have acidity?": [
+                                                    [
+                                                      [
+                                                        "GERD"
+                                                      ],
+                                                      [
+                                                        12
+                                                      ]
+                                                    ],
+                                                    {
+                                                      "do you have breathlessness?": [
+                                                        [
+                                                          [
+                                                            "Heart attack"
+                                                          ],
+                                                          [
+                                                            12
+                                                          ]
+                                                        ],
+                                                        [
+                                                          [
+                                                            "Hypertension "
+                                                          ],
+                                                          [
+                                                            12
+                                                          ]
+                                                        ]
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "do you have abdominal_pain?": [
+                                                    {
+                                                      "do you have dark_urine?": [
+                                                        [
+                                                          [
+                                                            "hepatitis A"
+                                                          ],
+                                                          [
+                                                            6
+                                                          ]
+                                                        ],
+                                                        {
+                                                          "do you have distention_of_abdomen?": [
+                                                            [
+                                                              [
+                                                                "Alcoholic hepatitis"
+                                                              ],
+                                                              [
+                                                                6
+                                                              ]
+                                                            ],
+                                                            [
+                                                              [
+                                                                "Peptic ulcer diseae"
+                                                              ],
+                                                              [
+                                                                6
+                                                              ]
+                                                            ]
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "do you have dizziness?": [
+                                                        {
+                                                          "do you have abnormal_menstruation?": [
+                                                            [
+                                                              [
+                                                                "Hypothyroidism"
+                                                              ],
+                                                              [
+                                                                12
+                                                              ]
+                                                            ],
+                                                            [
+                                                              [
+                                                                "Cervical spondylosis"
+                                                              ],
+                                                              [
+                                                                6
+                                                              ]
+                                                            ]
+                                                          ]
+                                                        },
+                                                        {
+                                                          "do you have blurred_and_distorted_vision?": [
+                                                            {
+                                                              "do you have acidity?": [
+                                                                [
+                                                                  [
+                                                                    "Migraine"
+                                                                  ],
+                                                                  [
+                                                                    6
+                                                                  ]
+                                                                ],
+                                                                [
+                                                                  [
+                                                                    "Diabetes "
+                                                                  ],
+                                                                  [
+                                                                    6
+                                                                  ]
+                                                                ]
+                                                              ]
+                                                            },
+                                                            {
+                                                              "do you have joint_pain?": [
+                                                                {
+                                                                  "do you have hip_joint_pain?": [
+                                                                    [
+                                                                      [
+                                                                        "Osteoarthristis"
+                                                                      ],
+                                                                      [
+                                                                        6
+                                                                      ]
+                                                                    ],
+                                                                    [
+                                                                      [
+                                                                        "Psoriasis"
+                                                                      ],
+                                                                      [
+                                                                        6
+                                                                      ]
+                                                                    ]
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "do you have dehydration?": [
+                                                                    [
+                                                                      [
+                                                                        "Gastroenteritis"
+                                                                      ],
+                                                                      [
+                                                                        12
+                                                                      ]
+                                                                    ],
+                                                                    {
+                                                                      "do you have continuous_sneezing?": [
+                                                                        [
+                                                                          [
+                                                                            "Allergy"
+                                                                          ],
+                                                                          [
+                                                                            12
+                                                                          ]
+                                                                        ],
+                                                                        {
+                                                                          "do you have blackheads?": [
+                                                                            [
+                                                                              [
+                                                                                "Acne"
+                                                                              ],
+                                                                              [
+                                                                                6
+                                                                              ]
+                                                                            ],
+                                                                            {
+                                                                              "do you have bruising?": [
+                                                                                [
+                                                                                  [
+                                                                                    "Varicose veins"
+                                                                                  ],
+                                                                                  [
+                                                                                    6
+                                                                                  ]
+                                                                                ],
+                                                                                {
+                                                                                  "do you have burning_micturition?": [
+                                                                                    [
+                                                                                      [
+                                                                                        "Urinary tract infection"
+                                                                                      ],
+                                                                                      [
+                                                                                        6
+                                                                                      ]
+                                                                                    ],
+                                                                                    {
+                                                                                      "do you have constipation?": [
+                                                                                        [
+                                                                                          [
+                                                                                            "Dimorphic hemmorhoids(piles)"
+                                                                                          ],
+                                                                                          [
+                                                                                            6
+                                                                                          ]
+                                                                                        ],
+                                                                                        {
+                                                                                          "do you have extra_marital_contacts?": [
+                                                                                            [
+                                                                                              [
+                                                                                                "AIDS"
+                                                                                              ],
+                                                                                              [
+                                                                                                6
+                                                                                              ]
+                                                                                            ],
+                                                                                            {
+                                                                                              "do you have family_history?": [
+                                                                                                [
+                                                                                                  [
+                                                                                                    "Hepatitis C"
+                                                                                                  ],
+                                                                                                  [
+                                                                                                    6
+                                                                                                  ]
+                                                                                                ],
+                                                                                                [
+                                                                                                  [
+                                                                                                    "Arthritis"
+                                                                                                  ],
+                                                                                                  [
+                                                                                                    6
+                                                                                                  ]
+                                                                                                ]
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
